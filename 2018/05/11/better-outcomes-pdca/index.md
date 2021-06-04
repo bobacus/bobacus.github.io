@@ -31,7 +31,7 @@ Yet without structure, an iterative process runs the risk of being a random walk
 
 With some patience and discipline, we can get better outcomes.
 
-##Hypothesis Testing
+## Hypothesis Testing
 
 PDCA is similar to the Scientific Method. It reframes _change_ as _hypothesis testing_ - and by doing that, it turns initiatives into experiments. The focus on experimentation and studying the results enables attention to come away from _"Right First Time"_, and move to generating multiple options: experiments from which we can seek to learn (rather than prove a point), and observations to guide our future activity.
 
@@ -46,7 +46,7 @@ Letting us reset the clock every time.
 ![Green plants in large sealed beakers in a laboratory](https://images.unsplash.com/photo-1475906089153-644d9452ce87?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ&s=023399d8714a5a4fc40ed8215b4d8ad7)
 <small>Photo by [chuttersnap](https://unsplash.com/@chuttersnap?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit) / [Unsplash](https://unsplash.com/?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit)</small>
 
-###Blogliography
+### Blogliography
 1. [Wikipedia](https://en.wikipedia.org/wiki/PDCA)
 2. [American Society for Quality](http://asq.org/learn-about-quality/project-planning-tools/overview/pdca-cycle.html)
 3. [The Deming Institute](https://blog.deming.org/2013/07/whats-deming-got-to-do-with-agile-software-development-and-kanban/)
