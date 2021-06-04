@@ -1,3 +1,7 @@
+---
+layout: page
+title: "Getting better outcomes with PDCA"
+---
 # Getting better outcomes with PDCA
 
 (11 May 2018)

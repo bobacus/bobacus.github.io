@@ -1,3 +1,7 @@
+---
+layout: page
+title: "The blog that didn't want to be written"
+---
 # The blog that didn't want to be written (or (perhaps), how I learnt to stop worrying and embrace risk)
 
 (24 March 2018)
